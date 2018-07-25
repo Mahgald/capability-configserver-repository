@@ -1,7 +1,5 @@
 #Local Customer Microservice Config
 
-capability: 
-  microservice: 
-    customer: 
-      Version: "0.0.1"
-      name: CustomerMicroservice
+capability:
+  microservice:
+    localization: ms-localization
