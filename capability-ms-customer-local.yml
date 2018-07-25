@@ -1,5 +1,4 @@
 #Local Customer Microservice Config
 
-capability:
-  microservice:
-    localization: ms-localization
+server:
+  port: 8002
