@@ -1,1 +1,7 @@
 #Local Customer Microservice Config
+
+capability:
+  microservice:
+    customer:
+      name: CustomerMicroservice
+      Version: 0.0.1
