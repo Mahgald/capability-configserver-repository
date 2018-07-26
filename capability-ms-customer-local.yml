@@ -1,7 +1,3 @@
-server:
-  port: 8081
-  context-path: /
-  
-app:
-  ms:
-    localization: ms-localization
+capability:
+  microservice: 
+    localization: capability-ms-localization
