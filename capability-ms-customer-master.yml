@@ -1,5 +1,3 @@
-#Master Customer Microservice Config
-
 capability:
   microservice:
     localization: ms-localization

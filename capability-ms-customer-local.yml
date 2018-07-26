@@ -1,4 +1,3 @@
-#Local Customer Microservice Config
-
-server:
-  port: 9000
+capability:
+  microservice:
+    localization: ms-localization
