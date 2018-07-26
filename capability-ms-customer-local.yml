@@ -1,4 +1,4 @@
 #Local Customer Microservice Config
 
 server:
-  port: 8002
+  port: 9000
